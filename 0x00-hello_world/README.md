@@ -1,1 +1,1 @@
-Write a script that compiles a C file but does not link.
+ C program that prints the size of various types on the computer it is compiled and run on
